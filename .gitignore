@@ -1,0 +1,7 @@
+# Project exclude paths
+/eladmin-business/target/
+/eladmin-common/target/
+/eladmin-generator/target/
+/eladmin-logging/target/
+/eladmin-system/target/
+/eladmin-tools/target/
